@@ -6,6 +6,9 @@
     "test": "echo \"Error: no test specified\"",
     "postinstall": "echo \"From the post install\""
   },
+  "bin": {
+    "awesome-command": "index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ScottJr/lightly-test.git"
