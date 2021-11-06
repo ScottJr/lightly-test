@@ -1,6 +1,6 @@
 {
   "name": "lightly-test",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A test of moving theme assets",
   "scripts": {
     "test": "echo \"Error: no test specified\"",
