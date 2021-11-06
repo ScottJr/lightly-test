@@ -2,7 +2,6 @@
   "name": "lightly-test",
   "version": "1.0.0",
   "description": "A test of moving theme assets",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "postinstall": "echo \"From the post install\" && exit 1"
